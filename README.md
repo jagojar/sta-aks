@@ -3,7 +3,7 @@
 1. Azure Policy
 https://docs.microsoft.com/en-us/azure/aks/use-azure-policy
 
-2. Azure Polciy addon for Aks
+2. Azure Policy addon for Aks
 https://docs.microsoft.com/en-us/azure/aks/use-azure-policy
 
 3. Gatekeeper
